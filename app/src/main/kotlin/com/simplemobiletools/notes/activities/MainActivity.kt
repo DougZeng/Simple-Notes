@@ -145,7 +145,7 @@ class MainActivity : SimpleActivity(), ViewPager.OnPageChangeListener {
             R.id.export_all_notes -> tryExportAllNotes()
             R.id.delete_note -> displayDeleteNotePrompt()
             R.id.settings -> startActivity(Intent(applicationContext, SettingsActivity::class.java))
-            R.id.about -> launchAbout()
+//            R.id.about -> launchAbout()
             else -> return super.onOptionsItemSelected(item)
         }
         return true
