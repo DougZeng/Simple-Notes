@@ -9,20 +9,13 @@ You can access the note in no time by using the customizable and resizable widge
 
 Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
 
-This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
+This app is just one piece of a bigger series of apps. 
 
-<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.notes'><img src='http://simplemobiletools.github.io/assets/public/google-play.png' alt='Get it on Google Play' height=45/></a>
-<a href='https://f-droid.org/packages/com.simplemobiletools.notes'><img src='http://simplemobiletools.github.io/assets/public/f-droid.png' alt='Get it on F-Droid' height=45 ></a>
-
-<div style="display:flex;">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/widget.png" width="30%">
 </div>
 
 License
 -------
-    Copyright 2016-present SimpleMobileTools
+    Copyright 2016-present 
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
